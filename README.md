@@ -1,3 +1,1 @@
-# my cool site
 
-Welcome
